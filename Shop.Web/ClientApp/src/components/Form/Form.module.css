@@ -1,0 +1,60 @@
+.Price {
+    font-size: 22px;
+    font-weight: 700;
+    padding: 5px;
+}
+
+.TotalPrice {
+    display: flex;
+    padding: 20px;
+    margin-top: 30px;
+    border-top: 2px solid black;
+    border-radius: 5px;
+
+}
+
+.Submit {
+    border-radius: 5%;
+    padding: 0px 30px;
+    font-size: 22px;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+
+
+.Submit:hover {
+    color: rgb(117, 93, 93);
+}
+
+ label, input {
+     display: block;
+ }
+
+ input{
+        font-size: 17px;
+        font-size: 500;
+        width: 100%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+        color: rgb(117, 93, 93);
+ }
+
+ label{
+        font-size: 20px;
+        font-weight: 500;
+        padding: 5px;
+        color: rgb(117, 93, 93);
+ }
+
+ .Notification{
+    font-size: 18px;
+    color: red;
+ }
+
+ .Form{
+    margin-left: 50px;
+ }

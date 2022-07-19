@@ -1,0 +1,43 @@
+.Container{
+    display: inline-block;
+    margin-left: 8%;
+    margin-top: 20px;
+}
+
+.Shops {
+    list-style: none;
+    font-size: 25px;
+}
+
+.Items{
+    color: rgb(107, 73, 73);
+    margin-top: 20px;
+}
+
+.Button{
+    border-radius: 7%;
+    background-color: rgb(180, 172, 172);
+    padding: 10px 30px;
+    color:antiquewhite;
+    font-size: 25px;
+    cursor: pointer;
+}
+
+.Title{
+    font-size: 28px;
+    color: rgb(83, 63, 37);
+    margin-left: 40px;
+}
+
+.Button:hover {
+    background-color: antiquewhite;
+    padding: 10px 30px;
+    color: rgb(180, 172, 172);
+
+}
+
+.Button:disabled {
+    border: 1px solid #999999;
+    background-color: #cccccc;
+    color: #666666;
+}

@@ -1,0 +1,90 @@
+.Container {
+    margin-left: 250px;
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 25px;
+    width: 80%;
+}
+
+.Item {
+    display: flex;
+    align-items: center;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    width: auto;
+    height: auto;
+    border-radius: 5px;
+    background-color: antiquewhite;
+    color: rgb(107, 73, 73);
+    margin: 20px 20px;
+}
+
+.Image {
+    width: 450px;
+    height: 300px;
+    border: 2px solid black;
+}
+
+.Name {
+    font-size: 22px;
+    font-weight: 700;
+}
+
+.Price {
+    font-size: 17px;
+}
+
+.Desc {
+    margin: 30px;
+}
+
+.Button {
+    margin: 15px;
+    width: 40px;
+    font-weight: 700;
+    border: none;
+    border-radius: 3px;
+    font-size: 18px;
+    color: antiquewhite;
+    cursor: pointer;
+}
+
+.ButtonRemove {
+    background-color: red;
+}
+
+.ButtonAdd {
+    background-color: green;
+}
+
+.ButtonAdd:active {
+    transform: translateY(1.5px);
+}
+
+.ButtonRemove:active {
+    transform: translateY(1.5px);
+}
+
+.Value {
+    font-size: 22px;
+    color: rgb(107, 73, 73);
+    margin-left: 30px;
+}
+
+.PriceItem {
+    font-size: 15px;
+    font-weight: 500;
+    margin-top: 10px;
+    margin-right: 30px;
+    margin-left: auto;
+}
+
+.Price {
+    font-size: 22px;
+    font-weight: 700;
+    margin-top: 10px;
+    margin-right: 30px;
+    margin-left: auto;
+}
+

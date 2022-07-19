@@ -1,0 +1,12 @@
+D:\GoIT\Markup-hw\ElifTech ShopApp\Shop.App\Shop.Domain.Models\bin\Debug\net6.0\Shop.Domain.Models.deps.json
+D:\GoIT\Markup-hw\ElifTech ShopApp\Shop.App\Shop.Domain.Models\bin\Debug\net6.0\Shop.Domain.Models.dll
+D:\GoIT\Markup-hw\ElifTech ShopApp\Shop.App\Shop.Domain.Models\bin\Debug\net6.0\Shop.Domain.Models.pdb
+D:\GoIT\Markup-hw\ElifTech ShopApp\Shop.App\Shop.Domain.Models\obj\Debug\net6.0\Shop.Domain.Models.csproj.AssemblyReference.cache
+D:\GoIT\Markup-hw\ElifTech ShopApp\Shop.App\Shop.Domain.Models\obj\Debug\net6.0\Shop.Domain.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\GoIT\Markup-hw\ElifTech ShopApp\Shop.App\Shop.Domain.Models\obj\Debug\net6.0\Shop.Domain.Models.AssemblyInfoInputs.cache
+D:\GoIT\Markup-hw\ElifTech ShopApp\Shop.App\Shop.Domain.Models\obj\Debug\net6.0\Shop.Domain.Models.AssemblyInfo.cs
+D:\GoIT\Markup-hw\ElifTech ShopApp\Shop.App\Shop.Domain.Models\obj\Debug\net6.0\Shop.Domain.Models.csproj.CoreCompileInputs.cache
+D:\GoIT\Markup-hw\ElifTech ShopApp\Shop.App\Shop.Domain.Models\obj\Debug\net6.0\Shop.Domain.Models.dll
+D:\GoIT\Markup-hw\ElifTech ShopApp\Shop.App\Shop.Domain.Models\obj\Debug\net6.0\refint\Shop.Domain.Models.dll
+D:\GoIT\Markup-hw\ElifTech ShopApp\Shop.App\Shop.Domain.Models\obj\Debug\net6.0\Shop.Domain.Models.pdb
+D:\GoIT\Markup-hw\ElifTech ShopApp\Shop.App\Shop.Domain.Models\obj\Debug\net6.0\ref\Shop.Domain.Models.dll

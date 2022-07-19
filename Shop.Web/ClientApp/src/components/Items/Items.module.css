@@ -1,0 +1,58 @@
+.Container{
+    margin-left: 35px;
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 25px;
+    width: 80%;
+}
+
+.Item {
+    width: 500px;
+    height: auto;
+    border-radius: 5px;
+    background-color: antiquewhite;
+    color: rgb(107, 73, 73);
+    padding: 35px;
+    margin: 20px 20px;
+}
+
+.Button {
+    border-radius: 7%;
+    background-color: rgb(180, 172, 172);
+    padding: 10px 30px;
+    color: antiquewhite;
+    font-size: 25px;
+    cursor: pointer;
+}
+
+.Image{
+    width: 450px;
+    height: 300px;
+    border: 2px solid black;
+}
+
+.Button:hover {
+    background-color: antiquewhite;
+    padding: 10px 30px;
+    color: rgb(180, 172, 172);
+
+}
+
+.Description{
+    font-size: 13px;
+}
+
+.Name{
+    font-size: 18px;
+}
+
+.Price{
+    font-size: 11px;
+}
+
+.Order{
+    font-size: 17px;
+    color:rgb(129, 76, 11);
+    font-weight: 700;
+    margin-bottom: 10px;
+}
