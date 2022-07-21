@@ -2,8 +2,6 @@ import { useState, useEffect } from "react";
 import styles from "./Form.module.css";
 import 'react-toastify/dist/ReactToastify.css';
 
-
-
 const Forma = ({isFormValid, setForm}) => {
 
   const [name, setName] = useState('');
@@ -163,15 +161,8 @@ const Forma = ({isFormValid, setForm}) => {
           placeholder="Please, enter your address.."
           />
       </label>
-      {/* <div className={styles.TotalPrice}>
-          <p className={styles.Price}>
-            Total price: {itemsTotalPrice}
-          </p>
-          <button className={styles.Submit} onClick={notifi('Thanks for your order! The form was sent')} disabled={!validForm} type="submit">Submit</button>
-      </div> */}
     </form>
   )
 }
   
-
 export default Forma;

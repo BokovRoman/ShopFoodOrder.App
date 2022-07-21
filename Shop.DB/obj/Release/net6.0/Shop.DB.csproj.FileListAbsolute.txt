@@ -1,0 +1,14 @@
+D:\GoIT\Markup-hw\ElifTech ShopApp\Shop.App\Shop.DB\bin\Release\net6.0\Shop.DB.deps.json
+D:\GoIT\Markup-hw\ElifTech ShopApp\Shop.App\Shop.DB\bin\Release\net6.0\Shop.DB.runtimeconfig.json
+D:\GoIT\Markup-hw\ElifTech ShopApp\Shop.App\Shop.DB\bin\Release\net6.0\Shop.DB.dll
+D:\GoIT\Markup-hw\ElifTech ShopApp\Shop.App\Shop.DB\bin\Release\net6.0\Shop.DB.pdb
+D:\GoIT\Markup-hw\ElifTech ShopApp\Shop.App\Shop.DB\obj\Release\net6.0\Shop.DB.csproj.AssemblyReference.cache
+D:\GoIT\Markup-hw\ElifTech ShopApp\Shop.App\Shop.DB\obj\Release\net6.0\Shop.DB.GeneratedMSBuildEditorConfig.editorconfig
+D:\GoIT\Markup-hw\ElifTech ShopApp\Shop.App\Shop.DB\obj\Release\net6.0\Shop.DB.AssemblyInfoInputs.cache
+D:\GoIT\Markup-hw\ElifTech ShopApp\Shop.App\Shop.DB\obj\Release\net6.0\Shop.DB.AssemblyInfo.cs
+D:\GoIT\Markup-hw\ElifTech ShopApp\Shop.App\Shop.DB\obj\Release\net6.0\Shop.DB.csproj.CoreCompileInputs.cache
+D:\GoIT\Markup-hw\ElifTech ShopApp\Shop.App\Shop.DB\obj\Release\net6.0\Shop.DB.dll
+D:\GoIT\Markup-hw\ElifTech ShopApp\Shop.App\Shop.DB\obj\Release\net6.0\refint\Shop.DB.dll
+D:\GoIT\Markup-hw\ElifTech ShopApp\Shop.App\Shop.DB\obj\Release\net6.0\Shop.DB.pdb
+D:\GoIT\Markup-hw\ElifTech ShopApp\Shop.App\Shop.DB\obj\Release\net6.0\Shop.DB.genruntimeconfig.cache
+D:\GoIT\Markup-hw\ElifTech ShopApp\Shop.App\Shop.DB\obj\Release\net6.0\ref\Shop.DB.dll

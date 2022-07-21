@@ -22,7 +22,6 @@ const Shops = ({ shops, addProductItems }) => {
                             <li key={shop.id} className={styles.Items}>
                             <button type="button"
                                 className={styles.Button}
-                                // onClick={event => selectedShop(shop)}
                                 onClick={() => { selectedShop(shop); handleIsShopSelected(true) }}
                                 disabled={isShopSelected}
                             >

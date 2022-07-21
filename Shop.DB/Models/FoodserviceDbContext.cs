@@ -31,10 +31,10 @@ namespace Shop.DB.Models
             if (!optionsBuilder.IsConfigured)
             {
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see http://go.microsoft.com/fwlink/?LinkId=723263.
-                optionsBuilder.UseSqlServer("Server=DESKTOP-VJPLF5R\\SQLEXPRESS;Database=FoodserviceDb;Trusted_Connection=True;");
+                optionsBuilder.UseSqlServer("Data Source=SQL8004.site4now.net;Initial Catalog=db_a8a643_romanbokovdb;User Id=db_a8a643_romanbokovdb_admin;Password=YOUR_DB_PASSWORD");
             }
         }
-
+        //"Server=DESKTOP-VJPLF5R\\SQLEXPRESS;Database=FoodserviceDb;Trusted_Connection=True;"
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<CompaniesItem>(entity =>

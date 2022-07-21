@@ -1,7 +1,5 @@
 import styles from "./CartItems.module.css";
 
-
-
 const CartItems = ({cartItems, handleAddItems, handleRemoveItems}) => {
 
     return (

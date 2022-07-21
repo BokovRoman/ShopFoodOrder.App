@@ -31,7 +31,6 @@ const Items = ({ productItems,selectItems}) => {
     };
 
     const getQuantity = (product) => {
-        // debugger;
         const exist = cartItems.find((cartItem) => cartItem.id === product.id);
         return exist ? `Perfect! ${exist.name} was added to Shopping Cart in quantity-${exist.quantity}` : "";
     }

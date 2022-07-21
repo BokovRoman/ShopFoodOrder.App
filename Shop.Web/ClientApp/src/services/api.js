@@ -1,9 +1,8 @@
 import axios from 'axios';
 
-
 export async function  getShops (){
     try{
-        const response = await axios.get('https://localhost:44479/api/shop');
+        const response = await axios.get('http://romanbokov-001-site1.etempurl.com/api/shop');
             console.log('response  ', response)
             return response.data;
         }catch(error) {
@@ -11,13 +10,14 @@ export async function  getShops (){
     }
 }
   
-
 export async function  createOrder (model){
     try{
-        const response = await axios.post('https://localhost:44479/api/order', model);
+        const response = await axios.post('http://romanbokov-001-site1.etempurl.com/api/order', model);
             console.log('response  ', response)
             return response.data;
     }catch(error) {
         return [];
     }
 }
+
+// 'https://localhost:44479/api/order'
